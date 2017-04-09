@@ -1,0 +1,43 @@
+@media (max-width:991px) and (min-width:0) 
+	{
+	#image_fond
+	{
+	display:none;
+	}
+	#intro
+	{
+	position:relative;
+	top:100px;
+	left:0px
+	}
+	}
+@media (max-width:991px) and (min-width:0)  
+	{
+	#image_fond2
+	{
+	display:none;
+	}
+	#cv
+	{
+	position:relative;
+	left:0px;
+	top:100px;
+	}
+	}
+@media (min-width:991px) 
+{
+#cv
+	{
+	position:relative;
+	left:450px;
+	top:100px;
+	}
+	
+	#intro
+	{
+	position:relative;
+	top:100px;
+	left:120px;
+	}
+
+}
